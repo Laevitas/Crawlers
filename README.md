@@ -18,7 +18,7 @@ npm install
 npm start
 or
 node crawl
-  build 
+
 ```
 ## Usage
 
